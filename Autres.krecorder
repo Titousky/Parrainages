@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>Autres</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Refairall</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://refairall.com/login<datalist><option>https://refairall.com/login</option></datalist></td><td></td></tr>
+<tr><td>type</td><td>id=inputEmail<datalist><option>id=inputEmail</option><option>name=email</option><option>xpath=//input[@id='inputEmail']</option><option>xpath=//input</option><option>css=#inputEmail</option></datalist></td><td>titousky1@gmail.com</td></tr>
+<tr><td>type</td><td>id=inputPassword<datalist><option>id=inputPassword</option></datalist></td><td>MYkeysareLOST!8</td></tr>
+<tr><td>click</td><td>xpath=//button[@type='submit']<datalist><option>xpath=//button[@type='submit']</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://refairall.com/dashboard/annonces<datalist><option>https://refairall.com/dashboard/annonces</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16645 .slider<datalist><option>css=.blockToggle16645 .slider</option><option>css=.blockToggle13730 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16645 .slider<datalist><option>css=.blockToggle16645 .slider</option><option>css=.blockToggle13730 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16497 .slider<datalist><option>css=.blockToggle16497 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16497 .slider<datalist><option>css=.blockToggle16497 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16171 .slider<datalist><option>css=.blockToggle16171 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16171 .slider<datalist><option>css=.blockToggle16171 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16099 .slider<datalist><option>css=.blockToggle16099 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16099 .slider<datalist><option>css=.blockToggle16099 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16098 .slider<datalist><option>css=.blockToggle16098 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16098 .slider<datalist><option>css=.blockToggle16098 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16097 .slider<datalist><option>css=.blockToggle16097 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16097 .slider<datalist><option>css=.blockToggle16097 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16078 .slider<datalist><option>css=.blockToggle16078 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16078 .slider<datalist><option>css=.blockToggle16078 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16074 .slider<datalist><option>css=.blockToggle16074 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16074 .slider<datalist><option>css=.blockToggle16074 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16073 .slider<datalist><option>css=.blockToggle16073 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16073 .slider<datalist><option>css=.blockToggle16073 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16072 .slider<datalist><option>css=.blockToggle16072 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16072 .slider<datalist><option>css=.blockToggle16072 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16065 .slider<datalist><option>css=.blockToggle16065 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16065 .slider<datalist><option>css=.blockToggle16065 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16064 .slider<datalist><option>css=.blockToggle16064 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16064 .slider<datalist><option>css=.blockToggle16064 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16010 .slider<datalist><option>css=.blockToggle16010 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16010 .slider<datalist><option>css=.blockToggle16010 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16008 .slider<datalist><option>css=.blockToggle16008 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle16008 .slider<datalist><option>css=.blockToggle16008 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15839 .slider<datalist><option>css=.blockToggle15839 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15839 .slider<datalist><option>css=.blockToggle15839 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15483 .slider<datalist><option>css=.blockToggle15483 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15483 .slider<datalist><option>css=.blockToggle15483 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15482 .slider<datalist><option>css=.blockToggle15482 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15482 .slider<datalist><option>css=.blockToggle15482 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15480 .slider<datalist><option>css=.blockToggle15480 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15480 .slider<datalist><option>css=.blockToggle15480 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15479 .slider<datalist><option>css=.blockToggle15479 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15479 .slider<datalist><option>css=.blockToggle15479 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15478 .slider<datalist><option>css=.blockToggle15478 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15478 .slider<datalist><option>css=.blockToggle15478 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15477 .slider<datalist><option>css=.blockToggle15477 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15477 .slider<datalist><option>css=.blockToggle15477 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15476 .slider<datalist><option>css=.blockToggle15476 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15476 .slider<datalist><option>css=.blockToggle15476 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15475 .slider<datalist><option>css=.blockToggle15475 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15475 .slider<datalist><option>css=.blockToggle15475 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15309 .slider<datalist><option>css=.blockToggle15309 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle15309 .slider<datalist><option>css=.blockToggle15309 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14847 .slider<datalist><option>css=.blockToggle14847 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14847 .slider<datalist><option>css=.blockToggle14847 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14592 .slider<datalist><option>css=.blockToggle14592 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14592 .slider<datalist><option>css=.blockToggle14592 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14535 .slider<datalist><option>css=.blockToggle14535 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14535 .slider<datalist><option>css=.blockToggle14535 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14386 .slider<datalist><option>css=.blockToggle14386 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14386 .slider<datalist><option>css=.blockToggle14386 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14272 .slider<datalist><option>css=.blockToggle14272 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14272 .slider<datalist><option>css=.blockToggle14272 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14128 .slider<datalist><option>css=.blockToggle14128 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14128 .slider<datalist><option>css=.blockToggle14128 .slider</option></datalist></td><td></td></tr>
+<tr><td>doubleClick</td><td>css=.blockToggle14128 .slider<datalist><option>css=.blockToggle14128 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14127 .slider<datalist><option>css=.blockToggle14127 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14127 .slider<datalist><option>css=.blockToggle14127 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14126 .slider<datalist><option>css=.blockToggle14126 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14126 .slider<datalist><option>css=.blockToggle14126 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14125 .slider<datalist><option>css=.blockToggle14125 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14125 .slider<datalist><option>css=.blockToggle14125 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14109 .slider<datalist><option>css=.blockToggle14109 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14109 .slider<datalist><option>css=.blockToggle14109 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14108 .slider<datalist><option>css=.blockToggle14108 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14108 .slider<datalist><option>css=.blockToggle14108 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14107 .slider<datalist><option>css=.blockToggle14107 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14107 .slider<datalist><option>css=.blockToggle14107 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14106 .slider<datalist><option>css=.blockToggle14106 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14106 .slider<datalist><option>css=.blockToggle14106 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14105 .slider<datalist><option>css=.blockToggle14105 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14105 .slider<datalist><option>css=.blockToggle14105 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14077 .slider<datalist><option>css=.blockToggle14077 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14077 .slider<datalist><option>css=.blockToggle14077 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14069 .slider<datalist><option>css=.blockToggle14069 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14069 .slider<datalist><option>css=.blockToggle14069 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14020 .slider<datalist><option>css=.blockToggle14020 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle14020 .slider<datalist><option>css=.blockToggle14020 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13899 .slider<datalist><option>css=.blockToggle13899 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13899 .slider<datalist><option>css=.blockToggle13899 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13879 .slider<datalist><option>css=.blockToggle13879 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13879 .slider<datalist><option>css=.blockToggle13879 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13878 .slider<datalist><option>css=.blockToggle13878 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13878 .slider<datalist><option>css=.blockToggle13878 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13832 .slider<datalist><option>css=.blockToggle13832 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13832 .slider<datalist><option>css=.blockToggle13832 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13831 .slider<datalist><option>css=.blockToggle13831 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13831 .slider<datalist><option>css=.blockToggle13831 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13730 .slider<datalist><option>css=.blockToggle13730 .slider</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>css=.blockToggle13730 .slider<datalist><option>css=.blockToggle13730 .slider</option></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>
